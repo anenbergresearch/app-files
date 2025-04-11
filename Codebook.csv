@@ -23,6 +23,10 @@ PAF_NO2,Population Attributable Fraction (%) for NO2
 Cases_NO2,Annual cases attributable to NO2
 Rates_NO2,"Annual cases attributable to NO2 per 100,000 people"
 CO2,Annual average FFCO2 emissions (tonnes/city boundary) calculated as a simple mean across gridcells within each city
+Pw_PM_V2,(Version 2) Annual average PM2.5 concentration (ug/m3) calculated as a population-weighted mean across gridcells within each city 
+Pw_NO2_V2,(Version 2) Annual average NO2 concentration (ppb) calculated as a population-weighted mean across gridcells within each city
+Pw_O3_V2,(Version 2) Maximum 6-month average of the daily 8-hr maximum ozone concentration (ppb) as a population-weighted mean across gridcells within each city
+CO2_V2,(Version 2) Total FFCO2 emissions per capita (metric tons) within each city
 Pop_ped,Population count (ages 1-18 years)
 GBDRegion,Global Burden of Disease Region
 GBDSuperRegion,Global Burden of Disease Super Region
